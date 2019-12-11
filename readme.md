@@ -59,7 +59,7 @@
 - [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Media](#media)
-- [Learn](#learn)
+![#1589F0]- [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
 - [Hardware](#hardware)
